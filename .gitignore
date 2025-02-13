@@ -1,0 +1,43 @@
+## Laravel
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/public/storage
+/public/hot
+/public/mix-manifest.json
+/public/js/*.map
+/public/css/*.map
+/public/build
+
+# Laravel log & cache files
+/storage/*.key
+/storage/*.log
+/storage/*.cache
+/storage/framework/
+/storage/logs/
+
+# Laravel environment & IDE files
+/.env
+/.env.*
+/.idea
+/.vscode
+
+# Composer dependencies
+/vendor/
+/composer.lock
+
+# NPM/Yarn dependencies
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# PHPUnit
+.phpunit.result.cache
+
+# Cache files
+/.cache/
+/.phpunit.result.cache
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
